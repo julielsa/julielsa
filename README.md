@@ -2,9 +2,7 @@
 - 👀 Welcome to my data analytics journey.
 - 🌼 I'm interested in the power of information in decision-making. 
 - 🌱 I’m looking to collaborate on interesting data-driven projects. 
-
-### -📫 How you can reach me
- [LinkedIn](www.linkedin.com/in/julielsasosa)
+- 📫 How you can reach me: [my LinkedIn](www.linkedin.com/in/julielsasosa)
 
   
 
