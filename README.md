@@ -1,5 +1,5 @@
 ## - 👋 Hi, I’m Julie
-- 👀 Welcome to my data analytics journey.
+- 👀 Welcome to my data analytics and programming portfolio.
 - 🌼 I'm interested in the power of information in decision-making. 
 - 🌱 I’m currently learning Python. 
 - 📫 How you can reach me: [my LinkedIn](www.linkedin.com/in/julielsasosa)
