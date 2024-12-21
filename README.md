@@ -4,7 +4,7 @@
 - 🌱 I’m currently deep-diving into Python libraries. 
 - 📫 How you can reach me: [my LinkedIn](www.linkedin.com/in/julielsasosa)
 
-## - Select Projects
+## - Featured Projects
 #### SQL- Chinook Music Analysis
 [_Analysis_](https://github.com/julielsa/SQL-chinook-music-data-analysis)
   - This project analyzes data from the Chinook database, a digital media store with information on artists, albums, tracks, invoices, and customers. The objective was to evaluate employee performance, analyze customer trends, and identify potential market opportunities.
@@ -17,8 +17,8 @@
 
 #### Python- Data Role Trend Analysis
 [_Analysis_](https://github.com/julielsa/Python-data-roles-analysis)
-    - This project provides an in-depth exploration of the U.S. data job market, with a focus on data analyst roles. Using data from Luke Barousse's Python course, I analyzed job titles, salaries, locations, and skills to answer critical questions about demand, salary trends, and optimal skillsets for data analysts.
-    - Description: This analysis reinforces the importance of aligning skills with industry demand while continuously adapting to emerging trends. By mastering versatile tools and staying informed, data analysts can maximize career growth and earning potential.
+  - This project provides an in-depth exploration of the U.S. data job market, with a focus on data analyst roles. Using data from Luke Barousse's Python course, I analyzed job titles, salaries, locations, and skills to answer critical questions about demand, salary trends, and optimal skillsets for data analysts.
+  - Description: This analysis reinforces the importance of aligning skills with industry demand while continuously adapting to emerging trends. By mastering versatile tools and staying informed, data analysts can maximize career growth and earning potential. Focused on ensuring data integrity and relevance to the U.S. market and used Python, Pandas, Matplotlib, and Seaborn to create insightful visualizations. 
 <!---
 julielsa/julielsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
