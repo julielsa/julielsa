@@ -11,7 +11,7 @@
   - Description: This analysis equips stakeholders with actionable recommendations to refine marketing strategies, enhance employee performance, and target new markets effectively. The project demonstrates expertise in data manipulation, SQL querying, and strategic analysis to drive business growth.
 
 #### PowerBI- Plant Co. Performance Dashboard
-[_Analysis_](https://github.com/julielsa/PowerBI-PlantCo-performance-report)
+[_Analysis_](https://github.com/julielsa/PowerBI-PlantCo-performance-report) | [*PowerBI File*](https://github.com/julielsa/PowerBI-PlantCo-performance-report/blob/main/PlantCoDashboard.pbix)
   - This project demonstrates the creation of a dynamic performance dashboard for a fictitious plant company, Plant Co., using PowerBI. The dashboard visualizes key business metrics such as year-over-year sales, quantities, and gross profit, empowering stakeholders to make informed, data-driven decisions.
   - Description: The PowerBI dashboard empowers Plant Co. to drive growth by transforming raw data into meaningful insights. Through interactive features and comprehensive analysis, it enhances the company’s ability to strategize and adapt to market needs efficiently.
 
