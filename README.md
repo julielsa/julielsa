@@ -4,7 +4,7 @@
 - 🌱 I’m currently deep-diving into Python libraries. 
 - 📫 How you can reach me: [my LinkedIn](www.linkedin.com/in/julielsasosa)
 
-## Featured Projects
+## 📊 Featured Projects
 #### SQL- Chinook Music Analysis
 [_Analysis_](https://github.com/julielsa/SQL-chinook-music-data-analysis)
   - This project analyzes data from the Chinook database, a digital media store with information on artists, albums, tracks, invoices, and customers. The objective was to evaluate employee performance, analyze customer trends, and identify potential market opportunities.
