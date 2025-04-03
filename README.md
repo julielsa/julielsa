@@ -7,7 +7,7 @@
 ## 📊 Featured Projects
 #### Predicting Diabetes Outcomes
 [_Analysis_](https://github.com/julielsa/Python-predicting-diabetes-outcomes/tree/main)
-  - Project aims to predict diabetes outcomes using the Pima Diabetes Database, employing Python for data preprocessing, modeling, and for exploratory data analysis and visualization. Key steps include data cleaning, feature scaling, model training, and evaluation using metrics like accuracy and AUC.
+  - This project aims to predict diabetes outcomes using the Pima Diabetes Database, employing Python for data preprocessing, modeling, and for exploratory data analysis and visualization. Key steps include data cleaning, feature scaling, model training, and evaluation using metrics like accuracy and AUC.
     
 #### Plant Co. Performance Dashboard
 [_Analysis_](https://github.com/julielsa/PowerBI-PlantCo-performance-report) | [*PowerBI File*](https://github.com/julielsa/PowerBI-PlantCo-performance-report/blob/main/PlantCoDashboard.pbix)
